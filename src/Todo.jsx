@@ -69,8 +69,8 @@ const Todo = () => {
         <AddIcon sx={{ color: "white" }} />
       </Fab>
       <Typography variant="h3" component="h6" color={"#A5A697"} width={"100%"} sx={{ fontSize: {
-      xs: "1.5rem", // Ekran boyutu < 600px
-      sm: "2rem", // Ekran boyutu >= 600px
+      xs: "1.5rem", 
+      sm: "2rem", 
     },}}>
         Todo List with Redux
       </Typography>
